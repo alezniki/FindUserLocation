@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FIndUserLocation/ViewController.swift"
+            timestampString = "505259292.861958"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FIndUserLocation.ViewController.__deallocating_deinit"
+                  moduleName = "FIndUserLocation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikola/Desktop/udemy/percival/FIndUserLocation/FIndUserLocation/ViewController.swift"
+                  timestampString = "505259293.488977"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FIndUserLocation.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; FIndUserLocation.ViewController"
+                  moduleName = "FIndUserLocation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikola/Desktop/udemy/percival/FIndUserLocation/FIndUserLocation/ViewController.swift"
+                  timestampString = "505259293.495751"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FIndUserLocation.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; FIndUserLocation.ViewController"
+                  moduleName = "FIndUserLocation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikola/Desktop/udemy/percival/FIndUserLocation/FIndUserLocation/ViewController.swift"
+                  timestampString = "505259293.498813"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FIndUserLocation.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FIndUserLocation.ViewController&gt;"
+                  moduleName = "FIndUserLocation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikola/Desktop/udemy/percival/FIndUserLocation/FIndUserLocation/ViewController.swift"
+                  timestampString = "505259293.501925"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FIndUserLocation.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FIndUserLocation.ViewController&gt;"
+                  moduleName = "FIndUserLocation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikola/Desktop/udemy/percival/FIndUserLocation/FIndUserLocation/ViewController.swift"
+                  timestampString = "505259293.504473"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
