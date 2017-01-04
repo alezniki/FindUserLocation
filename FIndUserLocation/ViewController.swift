@@ -15,9 +15,15 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
 	@IBOutlet var map: MKMapView!
 	@IBOutlet weak var lblPlacemarks: UILabel!
 	
+	var mng = CLLocationManager()
+	
 	override func viewDidLoad() {
 		super.viewDidLoad()
 		// Do any additional setup after loading the view, typically from a nib.
+		mng.delegate = self // allows ViewController to controlls the locationManager
+		mng.desiredAccuracy = kCLLocationAccuracyBest // for best accuracy
+		mng.requestWhenInUseAuthorization() // request user location
+		mng.startUpdatingLocation() // start monitoring location when app in use
 	}
 	
 
@@ -25,7 +31,10 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
 		super.didReceiveMemoryWarning()
 		// Dispose of any resources that can be recreated.
 	}
-
-
+	
+	// didUpdateLocations: to get the user location
+	func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
+		print(locations)
+	}
 }
 
